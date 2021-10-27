@@ -56,6 +56,9 @@
         <td><a href="https://github.com/AdvickV/ImageWatermarkingApp" target="_blank">
             <img alt="ImageWatermarkingApp" src="https://github-readme-stats.vercel.app/api/pin/?username=AdvickV&repo=ImageWatermarkingApp&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
         </a></td>
+        <td><a href="https://github.com/AdvickV/Wikipedia-Desktop-App" target="_blank">
+            <img alt="Wikipedia-Desktop-App" src="https://github-readme-stats.vercel.app/api/pin/?username=AdvickV&repo=Wikipedia-Desktop-App&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
+        </a></td>
         </tr>  
     </table>
 </div>
