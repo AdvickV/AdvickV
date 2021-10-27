@@ -4,7 +4,7 @@
     <img width="360" height="300" alt="Computer" src="computer.gif">
 </div>
 <br>
-<p> Hi! My name is Advick. My main interests are Machine Learning, Data Science and GUI Development. I also have some basic knowlegde of Linux. My passion is coding and my goal is to change the world using technology. <strong>My Website: <a href="https://www.advick.ml/">www.advick.ml</a></strong></p>
+<p> Hi! I am Advick, a middle school student who has fallen in love with programming. I ❤️ Machine Learning, Data Science and GUI Developement. My passion is programming and my goal is to change the world using technology. <strong>My Website: <a href="https://www.advick.ml/">www.advick.ml</a></strong></p>
 
 <!-- Skills -->
 <h2>Skills</h2>
