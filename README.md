@@ -1,4 +1,4 @@
-<h1> Hello there, Glad to see you! 👋 </h1>
+<h1> Hey fellow Coder! Glad to see you. 👋 </h1>
 <br>
 <div align = "center">
     <img width="360" height="300" alt="Computer" src="computer.gif">
