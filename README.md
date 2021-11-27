@@ -4,7 +4,7 @@
     <img width="360" height="300" alt="Computer" src="computer.gif">
 </div>
 <br>
-<p> Hi! I am Advick, a middle school student who has fallen in love with programming. I ❤️ Machine Learning, Data Science and GUI Developement. My passion is programming and my goal is to change the world using technology. <strong>My Website: <a href="https://www.advick.ml/">www.advick.ml</a></strong></p>
+<p> Hi! I am Advick, a middle school student who has fallen in love with programming. I ❤️ GUI Development, Robotics and Machine Learning. My passion is programming and my goal is to change the world using technology. <strong>My Website: <a href="https://www.advick.ml/">www.advick.ml</a></strong></p>
 
 <!-- Skills -->
 <h2>Skills</h2>
@@ -58,6 +58,11 @@
         </a></td>
         <td><a href="https://github.com/AdvickV/Wikipedia-App" target="_blank">
             <img alt="Wikipedia-App" src="https://github-readme-stats.vercel.app/api/pin/?username=AdvickV&repo=Wikipedia-App&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
+        </a></td>
+        </tr>  
+        <tr>
+        <td><a href="https://github.com/AdvickV/Notepad-App" target="_blank">
+            <img alt="Notepad-App" src="https://github-readme-stats.vercel.app/api/pin/?username=AdvickV&repo=Notepad-App&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
         </a></td>
         </tr>  
     </table>
