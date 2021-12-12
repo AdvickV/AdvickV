@@ -4,15 +4,16 @@
     <img width="360" height="300" alt="Computer" src="computer.gif">
 </div>
 <br>
-<p> Hi! I am Advick, a middle school student who has fallen in love with programming. I ❤️ GUI Development, Robotics and Machine Learning. My passion is programming and my goal is to change the world using technology. <strong>My Website: <a href="https://www.advick.ml/">www.advick.ml</a></strong></p>
+<p> Hi! I am Advick, a middle school student who has and has a passion and fallen in love with programming. I ❤️ GUI and Back-End Development. My goal is to change the world using technology. <strong>My Website: <a href="https://www.advick.ml/">www.advick.ml</a></strong></p>
 
 <!-- Skills -->
 <h2>Skills</h2>
 <br>
 <div align = "center">
-    <img alt="Python" src="https://img.shields.io/badge/Python-1C1E26?style=for-the-badge&logo=python&labelColor=1C1E26">
+    <img alt="Python" src="https://img.shields.io/badge/Python-1C1E26?style=for-the-badge&logo=Python&labelColor=1C1E26">
     <img alt="HTML" src="https://img.shields.io/badge/HTML-1C1E26?style=for-the-badge&logo=html5&labelColor=1C1E26">
     <img alt="CSS" src="https://img.shields.io/badge/CSS-1C1E26?style=for-the-badge&logo=CSS3&labelColor=1C1E26">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-1C1E26?style=for-the-badge&logo=JavaScript&labelColor=1C1E26">
     <img alt="Linux" src="https://img.shields.io/badge/Linux-1C1E26?style=for-the-badge&logo=linux&labelColor=1C1E26">
 </div>
 
