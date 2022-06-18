@@ -4,7 +4,7 @@
     <img width="360" height="300" alt="Computer" src="computer.gif">
 </div>
 <br>
-<p> Hi! I am Advick, a middle school student who has and has a passion for technology and a goal to become an entrepreneur. I ❤️ <strong>Computer Vision</strong> and <strong>App Development.</strong><p>
+<p> Hi! I am Advick, a middle school student who has and has a passion for technology and an ambition to become a tech entrepreneur. I ❤️ <strong>Computer Vision</strong> and <strong>App Development.</strong><p>
 
 <!-- Skills -->
 <h2>Skills</h2>
